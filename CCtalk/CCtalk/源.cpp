@@ -2,7 +2,8 @@
 #include <stdio.h>
 int main()
 {
-	int i = 0;
-	printf("%d\n", i);
+	int a = 2;
+	int b = 1;
+	printf("%d\n", a);
 	return 0;
 }
