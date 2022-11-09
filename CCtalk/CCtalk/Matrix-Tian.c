@@ -248,20 +248,18 @@
 //	}
 //	return 0;
 //}
-int main()
-{
-	int n = 0;
-	int i = 0;
-	while (scanf("%d\n", &n) != EOF)
-	{
-		for (i = 1; i <= n; i++)
-		{
-			printf("*");
-		}
-		printf("\n");
-	}
-}
-
-
+//int main()
+//{
+//	int n = 0;
+//	int i = 0;
+//	while (scanf("%d\n", &n) != EOF)
+//	{
+//		for (i = 1; i <= n; i++)
+//		{
+//			printf("*");
+//		}
+//		printf("\n");
+//	}
+//}
 
 
